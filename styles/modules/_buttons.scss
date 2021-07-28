@@ -10,7 +10,7 @@
   }
 }
 
-// Note: Button Styles
+// NOTE: Button Styles
 .btn-primary {
   @extend %btn-base;
   color: $white;
@@ -56,7 +56,7 @@
   }
 }
 
-// Note: Button Sizes
+// NOTE: Button Sizes
 .btn-32 {
   @include text-style(14);
   height: 32px;
